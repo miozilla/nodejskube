@@ -1,13 +1,13 @@
 # nodejskube 📗🧊
-nodejskube : Node.js App on Kubernetes Cluster | GKE, Docker, Scaling, gcloud, kubectl, Pod, Load Balancer, Replication, Version, Roll Out |
+nodejskube : Node.js App on Kubernetes Cluster | Scaling, Workload, GKE, Docker, gcloud, kubectl, Pod, Load Balancer, Replication, Version, Roll Out, Health Check | 
 
 
 ## Objectives
-Create a Node.js server.
-Create a Docker container image.
-Create a container cluster.
-Create a Kubernetes pod.
-Scale up your services.
+Create Node.js server.
+Create Docker container image.
+Create container cluster.
+Create Kubernetes pod.
+Scale up services.
 
 
 ## Hello Node Kubernetes 
