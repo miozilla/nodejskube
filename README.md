@@ -8,6 +8,7 @@ nodejskube : Node.js App on Kubernetes Cluster | Scaling, Workload, GKE, Docker,
 - Create container cluster.
 - Create Kubernetes pod.
 - Scale up services.
+- GKE similar skill sets/services/technologies : EKS, AKS, Kubernetes, k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
 
 
 ## Hello Node Kubernetes 
